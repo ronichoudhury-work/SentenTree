@@ -7,7 +7,7 @@
     "Krist Wongsuphasawat <krist.wongz@gmail.com> (http://kristw.yellowpigz.com)"
   ],
   "license": "Apache-2.0",
-  "main": "dist/SentenTree.min.js",
+  "main": "dist/sententree.min.js",
   "files": [
     "src/**/*.*",
     "dist/*.*"
